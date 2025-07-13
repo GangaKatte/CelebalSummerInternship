@@ -1,7 +1,0 @@
-streamlit
-pandas
-transformers
-torch
-sentence-transformers
-scikit-learn
-accelerate
